@@ -1,0 +1,13 @@
+{
+  "main.css": "/deploy-react/static/css/main.82ffbaf6.chunk.css",
+  "main.js": "/deploy-react/static/js/main.9d3950bc.chunk.js",
+  "main.js.map": "/deploy-react/static/js/main.9d3950bc.chunk.js.map",
+  "static/js/1.7b70c3a4.chunk.js": "/deploy-react/static/js/1.7b70c3a4.chunk.js",
+  "static/js/1.7b70c3a4.chunk.js.map": "/deploy-react/static/js/1.7b70c3a4.chunk.js.map",
+  "runtime~main.js": "/deploy-react/static/js/runtime~main.a72cbe42.js",
+  "runtime~main.js.map": "/deploy-react/static/js/runtime~main.a72cbe42.js.map",
+  "static/css/main.82ffbaf6.chunk.css.map": "/deploy-react/static/css/main.82ffbaf6.chunk.css.map",
+  "index.html": "/deploy-react/index.html",
+  "precache-manifest.da7ece79e9018d011d33e3f78dc4ff74.js": "/deploy-react/precache-manifest.da7ece79e9018d011d33e3f78dc4ff74.js",
+  "service-worker.js": "/deploy-react/service-worker.js"
+}
